@@ -1,0 +1,15 @@
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.exe
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.deps.json
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.runtimeconfig.json
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.dll
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\bin\Debug\net8.0\OlaMundo.pdb
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.AssemblyInfo.cs
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.sourcelink.json
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.dll
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\refint\OlaMundo.dll
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.pdb
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\OlaMundo.genruntimeconfig.cache
+C:\Users\emane\OneDrive\Documentos\Fernanda- etec teste\OlaMundo\OlaMundo\obj\Debug\net8.0\ref\OlaMundo.dll
